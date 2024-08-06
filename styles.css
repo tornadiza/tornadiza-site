@@ -1,0 +1,58 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #fef1ea;
+}
+
+header {
+    background-color: #a396d1;
+    color: white;
+    text-align: center;
+    padding: 1rem 0;
+}
+
+header h1 {
+    font-family: 'Dancing Script', cursive;
+    font-size: 3rem;
+    margin: 0;
+}
+
+header p {
+    font-family: 'Arial', sans-serif;
+    font-size: 1.2rem;
+}
+
+nav ul {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    padding: 0;
+    background-color: #f98c44;
+}
+
+nav ul li {
+    margin: 0 1rem;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+
+main {
+    padding: 2rem;
+}
+
+main h2 {
+    font-family: 'Dancing Script', cursive;
+    font-size: 2.5rem;
+    color: #9c1e11;
+}
+
+main p {
+    font-size: 1.1rem;
+    color: #333;
+}
